@@ -1,5 +1,8 @@
 This is a repo for IOC's related to the "Clickfix" social engineering campaign. 
 
+<img width="500" height="600" alt="image" src="https://github.com/user-attachments/assets/3a08d856-5c37-4ab4-9d95-fc6c8ff52f17" />
+
+
 For more information, visit the following:
 
 https://www.darktrace.com/blog/unpacking-clickfix-darktraces-detection-of-a-prolific-social-engineering-tactic#:~:text=of%20all%20sizes-,Unpacking%20ClickFix:%20Darktrace's%20detection%20of%20a%20prolific%20social%20engineering%20tactic,Cyber%20Analyst
