@@ -1,4 +1,4 @@
-#Reports and IOC's related to Clickfix social engineering campaign
+#Reports and IOC's related to Clickfix social engineering campaign; the majority come from threatfox/abuse.ch
 
 <==Reports==>
 7/21-7/28
@@ -8,6 +8,63 @@ https://hunt.io/blog/macos-clickfix-applescript-terminal-phishing
 <==IOC's==>
 
 --Domain--
+haciver.com
+correctwion.click
+helpfullyk.click
+perxilox.com
+oldinax.com
+fermigz.com
+analyticacnodec.com
+nenilac.com
+pelrinsz.com
+passoverstruck.top
+akwatic-hotel.ci
+anselber.com
+pewbicved.com
+security.gwardfilaer.com
+kapoleq.com
+vendictio.com
+rose-pole-chip.pages.dev
+hopeldo.com
+sugarpotfun.fly.storage.tigris.dev
+homsertip.com
+perjaxs.com
+altopew.com
+jfbd.com
+nomgerx.com
+lbkequityexchange.com
+forbescheck.top
+poqers.com
+legder-live-desktop.net
+kacivoped.com
+empiricaludder.top
+holandeso.com
+analyticssnoden.com
+repoloik.com
+cekipolen.com
+tepolix.com
+security.fluargueds.com
+security.flioreshielld.com
+security.falagyrarde.com
+security.folagaiurd.com
+security.fbaregwaurd.com
+security.folapegiaurd.com
+security.floesrgayrd.com
+security.fanlareguward.com
+security.fsealengurrad.com
+security.flqergoaurd.com
+security.felaguueard.com
+security.gvaerdflarle.com
+security.guiaodfalear.com
+security.fhaugaaurd.com
+security.flwcereguaard.com
+security.flaversegaurd.com
+security.flekergauuard.com
+security.flmesecgaurd.com
+security.fleapecguadr.com
+security.flaweregeards.com
+security.floiregwaqrd.com
+menpogisa[.]com
 twtich[.]cc
 capchabot[.]cc
 Defanged_IOC
@@ -35,6 +92,10 @@ cryptoinfnews[.]com
 
 --URL--
 http://45.135.232.33/log
+https:\/\/www.jfbd.com\/f\/f
+https:\/\/jfbd.com\/f\/c
+https:\/\/hopeldo.com\/flare.msi
+https:\/\/shop.aeroboutiquepanama.com\/selectra_planilla\/sistemax.php
 
 --IP's--
 155.94.155[.]227:2269
@@ -49,8 +110,12 @@ http://45.135.232.33/log
 188.92.28[.]186
 45.135.232[.]33
 194.26.29[.]217
+147.124.219.109:7171
 
 --Hashes--
 98107c01ecd8b7802582d404e007e493
-
+56233bac07f4f9c43585e485e70b6169
+ad6104a503b46bf6ea505fe8b3182970
+a523bf5dca0f2a4ace0cf766d9225343
+bf795a376233032d05766a396b3d6e08
 --File Names--
