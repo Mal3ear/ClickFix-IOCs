@@ -1,4 +1,4 @@
-This is a repo for IOC's related to the "Clickfix" social engineering campaign. New IOC's should be added weekly if not daily, broken out by months. 
+This is a repo for IOC's related to the "Clickfix" social engineering campaign, including variations of information stealers that are delivered via this method. New IOC's should be added weekly if not daily, broken out by months. 
 
 <img width="400" height="500" alt="image" src="https://github.com/user-attachments/assets/3a08d856-5c37-4ab4-9d95-fc6c8ff52f17" />
 
