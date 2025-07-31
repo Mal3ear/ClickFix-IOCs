@@ -1,7 +1,7 @@
 # IOCs for RedLine infostealer
 
 --Domains--
-
+table-collectors.gl.at.ply[.]gg
 
 --URL's--
 
@@ -11,7 +11,7 @@
 194.59.30[.]130:313
 176.46.152[.]47:1912
 66.23.207[.]114:80
-
+194.59.30[.]130:313
 
 --Hashes--
 
